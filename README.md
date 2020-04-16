@@ -1,2 +1,0 @@
-# Propsnstate
-Created with CodeSandbox
